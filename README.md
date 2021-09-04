@@ -1,4 +1,3 @@
-### Hi there 👋, I'm Fuad
 
 <img align="right" alt="GIF" src="https://magiccopy.xyz/assets/images/hadder.gif" width="500" height="320" />  
 
