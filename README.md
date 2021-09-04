@@ -1,6 +1,5 @@
 
-<img align="right" alt="GIF" src="https://fuadsuleymanli.com/img/img-reverse.png" width="200"  />  
-
+### Hi there 👋, I'm Fuad
 
 - 📫  mail@fuadsuleymanli.com, suleymanli95@hotmail.com
 - 👉  https://fuadsuleymanli.com
