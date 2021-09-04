@@ -1,5 +1,5 @@
 
-<img align="right" alt="GIF" src="https://magiccopy.xyz/assets/images/hadder.gif" width="500" height="320" />  
+<img align="right" alt="GIF" src="https://fuadsuleymanli.com/img/img.png" width="500" height="320" />  
 
 
 - 📫  mail@fuadsuleymanli.com, suleymanli95@hotmail.com
