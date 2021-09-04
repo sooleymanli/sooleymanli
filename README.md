@@ -1,5 +1,5 @@
 
-<img align="right" alt="GIF" src="https://fuadsuleymanli.com/img/img-reverse.png" width="300"  />  
+<img align="right" alt="GIF" src="https://fuadsuleymanli.com/img/img-reverse.png" width="200"  />  
 
 
 - 📫  mail@fuadsuleymanli.com, suleymanli95@hotmail.com
