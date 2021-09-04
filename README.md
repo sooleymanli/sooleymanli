@@ -1,18 +1,4 @@
 
-### Hi there 👋, I'm Fuad
-
-- 📫  mail@fuadsuleymanli.com, suleymanli95@hotmail.com
-- 👉  https://fuadsuleymanli.com
-
-
-### Connect with me:
-[<img align="left" alt="Fuad Süleymanlı" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sooleymanli/)
-[<img align="left" alt="Fuad Süleymanlı" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/sooleymanli/)
-[<img align="left" alt="Fuad Süleymanlı" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/sooleymanli/)
-[<img align="left" alt="Fuad Süleymanlı" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />](https://codepen.io/sooleymanli/)
-
-<br />
-
 ---
 ### Languages and Tools
 
@@ -38,5 +24,5 @@
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sooleymanli&show_icons=true&locale=en&layout=compact" alt="sooleymanli" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sooleymanli&show_icons=true&locale=en" alt="sooleymanli" width="50%" /></p><br />
-<br />
+
 	
