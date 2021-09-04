@@ -12,12 +12,6 @@
 [<img align="left" alt="Fuad Süleymanlı" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />](https://codepen.io/sooleymanli/)
 
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 
 ---
 ### Languages and Tools
